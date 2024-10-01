@@ -1,6 +1,6 @@
 # litestar-sse-cleanup-issue
 
-https://github.com/litestar-org/litestar/issues/
+https://github.com/litestar-org/litestar/issues/3772
 
 1. Clone this repo: `git clone https://github.com/vrslev/litestar-sse-cleanup-issue && cd litestar-sse-cleanup-issue`
 1. Start Redis server: `docker compose up`
