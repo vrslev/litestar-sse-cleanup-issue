@@ -1,0 +1,10 @@
+[project]
+name = "litestar-sse-cleanup-issue"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "litestar[standard]>=2.12.1",
+    "redis>=5.1.0",
+]
